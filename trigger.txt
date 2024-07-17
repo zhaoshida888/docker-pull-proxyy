@@ -1,10 +1,5 @@
 redis:6-alpine registry.cn-beijing.aliyuncs.com/zhaoshida/redis:6-alpine
-
 postgres:15-alpine registry.cn-beijing.aliyuncs.com/zhaoshida/postgres:15-alpine
-
 langgenius/dify-sandbox:0.2.1 registry.cn-beijing.aliyuncs.com/zhaoshida/dify-sandbox:0.2.1
-
 ubuntu/squid:latest registry.cn-beijing.aliyuncs.com/zhaoshida/squid:latest
-
 semitechnologies/weaviate:1.19.0 registry.cn-beijing.aliyuncs.com/zhaoshida/weaviate:1.19.0
-
